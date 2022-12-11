@@ -1,2 +1,2 @@
-# Astro Sample
+# Astro Simple Sample
 - enabled react
