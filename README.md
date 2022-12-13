@@ -1,4 +1,4 @@
 # Astro Simple Sample
 - enabled react
 
-# sample
+# sample site
