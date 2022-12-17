@@ -2,4 +2,4 @@
 - enabled react
 
 # astro
-this is sample
+this is astro sample
