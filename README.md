@@ -5,3 +5,4 @@
 this is astro simple sample.
 
 # what can i do
+with astro
