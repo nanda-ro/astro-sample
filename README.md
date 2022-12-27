@@ -4,4 +4,4 @@
 # astro
 this is astro simple sample.
 
-# wanna make it simple
+# wanna make it simple.
