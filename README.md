@@ -5,4 +5,4 @@
 this is astro simple sample.
 
 # wanna make it simple.
-do
+do it
