@@ -1,2 +1,2 @@
 # Astro Simple Sample
-TODO:　update to real project
+TODO:　update to the real project
