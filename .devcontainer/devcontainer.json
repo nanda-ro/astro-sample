@@ -1,6 +1,4 @@
 {
-    "name": "Develop Container",
-    "dockerFile": "Dockerfile",
-	"remoteUser": "vscode",
-	"workspaceFolder": "/home/vscode"
+	"name": "Develop Container",
+	"dockerFile": "Dockerfile"
 }
